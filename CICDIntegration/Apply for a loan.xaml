@@ -143,7 +143,7 @@
                   </ui:Target>
                 </ui:Click.Target>
               </ui:Click>
-              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="359,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Loan Application successful&quot;]" />
+              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="359,59" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Loan application successfull&quot;]" />
             </Sequence>
           </ActivityAction>
         </ui:OpenBrowser.Body>
