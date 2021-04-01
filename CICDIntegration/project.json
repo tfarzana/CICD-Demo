@@ -39,57 +39,57 @@
       {
         "editingStatus": "Publishable",
         "testCaseId": "db084b1f-1917-4d5f-9961-b6f04bca4d64",
-        "fileName": "UiBank Apply for a loan.xaml"
+        "fileName": "Test Cases\\UiBank Apply for a loan.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "f8803b9e-119d-4ea3-bfc8-d6a9fca04892",
-        "fileName": "UiBank Funds Transfer.xaml"
+        "fileName": "Test Cases\\UiBank Funds Transfer.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "e76fda5e-957a-4b78-9fae-76ee72eeacec",
-        "fileName": "UiBank Account Creation.xaml"
+        "fileName": "Test Cases\\UiBank Account Creation.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
-        "fileName": "UiBank Delete Account.xaml"
+        "fileName": "Test Cases\\UiBank Delete Account.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "493ceaa9-85f0-47d9-94bb-05930befd6b7",
-        "fileName": "UiBank Login.xaml"
+        "fileName": "Test Cases\\UiBank Login.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "13f3f850-2359-4e16-af7b-637d2360999c",
-        "fileName": "UiBank Loan Status.xaml"
+        "fileName": "Test Cases\\UiBank Loan Status.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "7dab99e7-e6fc-445d-b341-726ff2824bac",
-        "fileName": "UiBank Credit Cards.xaml"
+        "fileName": "Test Cases\\UiBank Credit Cards.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "c34be4cc-e5c0-476f-9fb5-902eb5cba223",
-        "fileName": "UiBank Balance Check.xaml"
+        "fileName": "Test Cases\\UiBank Balance Check.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "74fad0f9-1728-470c-b891-53ea2e3b03ea",
-        "fileName": "UiBank User Profile.xaml"
+        "fileName": "Test Cases\\UiBank User Profile.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "3810049e-d1f9-4c05-bb16-239aec2e94c1",
-        "fileName": "UiBank Delete Profile.xaml"
+        "fileName": "Test Cases\\UiBank Delete Profile.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "923a3815-bf85-4c93-9f03-3645f0c2891d",
-        "fileName": "UiBank Add Account.xaml"
+        "fileName": "Test Cases\\UiBank Add Account.xaml"
       }
     ],
     "modernBehavior": false
@@ -97,67 +97,67 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "UiBank Apply for a loan.xaml",
+      "filePath": "Test Cases\\UiBank Apply for a loan.xaml",
       "uniqueId": "db084b1f-1917-4d5f-9961-b6f04bca4d64",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Funds Transfer.xaml",
+      "filePath": "Test Cases\\UiBank Funds Transfer.xaml",
       "uniqueId": "f8803b9e-119d-4ea3-bfc8-d6a9fca04892",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Account Creation.xaml",
+      "filePath": "Test Cases\\UiBank Account Creation.xaml",
       "uniqueId": "e76fda5e-957a-4b78-9fae-76ee72eeacec",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Delete Account.xaml",
+      "filePath": "Test Cases\\UiBank Delete Account.xaml",
       "uniqueId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Login.xaml",
+      "filePath": "Test Cases\\UiBank Login.xaml",
       "uniqueId": "493ceaa9-85f0-47d9-94bb-05930befd6b7",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Loan Status.xaml",
+      "filePath": "Test Cases\\UiBank Loan Status.xaml",
       "uniqueId": "13f3f850-2359-4e16-af7b-637d2360999c",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Credit Cards.xaml",
+      "filePath": "Test Cases\\UiBank Credit Cards.xaml",
       "uniqueId": "7dab99e7-e6fc-445d-b341-726ff2824bac",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Balance Check.xaml",
+      "filePath": "Test Cases\\UiBank Balance Check.xaml",
       "uniqueId": "c34be4cc-e5c0-476f-9fb5-902eb5cba223",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank User Profile.xaml",
+      "filePath": "Test Cases\\UiBank User Profile.xaml",
       "uniqueId": "74fad0f9-1728-470c-b891-53ea2e3b03ea",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Delete Profile.xaml",
+      "filePath": "Test Cases\\UiBank Delete Profile.xaml",
       "uniqueId": "3810049e-d1f9-4c05-bb16-239aec2e94c1",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UiBank Add Account.xaml",
+      "filePath": "Test Cases\\UiBank Add Account.xaml",
       "uniqueId": "923a3815-bf85-4c93-9f03-3645f0c2891d",
       "input": [],
       "output": []
