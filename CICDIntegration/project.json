@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.0.0",
-  "projectVersion": "5.0.0",
+  "projectVersion": "5.2.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -90,6 +90,21 @@
         "editingStatus": "Publishable",
         "testCaseId": "923a3815-bf85-4c93-9f03-3645f0c2891d",
         "fileName": "Test Cases\\UiBank Add Account.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b4091d70-486f-451f-b929-ba5fe4a3db89",
+        "fileName": "Test Cases\\Apply for loan TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "45edc427-8ebd-41a5-9e2c-76c2c3fa00be",
+        "fileName": "Test Cases\\Delete Loan TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "dff5c236-69fa-497d-880a-27388e771667",
+        "fileName": "Test Cases\\Balance Check Test Case.xaml"
       }
     ],
     "modernBehavior": false
@@ -159,6 +174,24 @@
     {
       "filePath": "Test Cases\\UiBank Add Account.xaml",
       "uniqueId": "923a3815-bf85-4c93-9f03-3645f0c2891d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Test Cases\\Apply for loan TestCase.xaml",
+      "uniqueId": "b4091d70-486f-451f-b929-ba5fe4a3db89",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Test Cases\\Delete Loan TestCase.xaml",
+      "uniqueId": "45edc427-8ebd-41a5-9e2c-76c2c3fa00be",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Test Cases\\Balance Check Test Case.xaml",
+      "uniqueId": "dff5c236-69fa-497d-880a-27388e771667",
       "input": [],
       "output": []
     }
